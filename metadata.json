@@ -1,0 +1,6 @@
+{
+  "name": "Park Run Tracker",
+  "description": "Live dashboard with stopwatch, real-time lap viewer, metric cards, and simulation alerts for park runners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
